@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120.89 77.45">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Poppins-SemiBold, Poppins;
+        font-size: 53.66px;
+        font-weight: 600;
+        letter-spacing: -.05em;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        font-family: Poppins-Light, Poppins;
+        font-size: 21.75px;
+        font-weight: 300;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <text class="cls-1" transform="translate(18.84 45.63)"><tspan x="0" y="0">POS</tspan></text>
+      <text class="cls-2" transform="translate(18.49 47.39) rotate(-90) scale(.96 1)"><tspan x="0" y="0">Dev </tspan></text>
+    </g>
+  </g>
+</svg>

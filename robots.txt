@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://devtechfusion.com
+
+# Sitemaps
+Sitemap: https://devtechfusion.com/sitemap.xml
